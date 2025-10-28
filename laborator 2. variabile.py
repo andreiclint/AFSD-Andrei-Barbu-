@@ -1,0 +1,2 @@
+# variabile
+text("Hello World")
